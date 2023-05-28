@@ -12,13 +12,14 @@
           </head>
   <body>
           </div>
-          <ul class="menu-items">
-            <li><a href="#index">Home</a></li>
-            <li><a href="#Ballet">Ballet</a></li>
-            <li><a href="#Latindance">Latin Ballroom</a></li>
-            <li><a href="Commdance">Commercial</a></li>
-            <li><a href="https://en.wikipedia.org/wiki/Dance">Learn More</a></li>
-          </ul>
+           <ul class="menu-items">
+        <li><a href="https://backpackkat.github.io/Homepage/">Home</a></li>
+        <li><a href="https://backpackkat.github.io/Ballet">Ballet</a></li>
+        <li><a href="https://backpackkat.github.io/Latindance">Latin Ballroom</a></li>
+        <li><a href="https://backpackkat.github.io/Commercial">Commercial</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Dance">Learn More</a></li>
+      </ul>
+      <hr />
       </div>
   </nav>
             <title>Dance Styles Overview</title>
